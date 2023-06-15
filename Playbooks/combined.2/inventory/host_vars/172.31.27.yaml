@@ -1,6 +1,6 @@
 ---
 package_name: apache2 
-loop_packages_items:
+php_packages:
   - php
   - libapache2-mod-php
   - php-mysql

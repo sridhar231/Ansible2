@@ -1,4 +1,4 @@
 ---
 package_name: httpd
-loop_packages_items: 
+php_packages: 
   - php
